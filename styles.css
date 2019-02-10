@@ -5,7 +5,6 @@
     font-family: 'Fira Sans', sans-serif;
     text-decoration: none;
     list-style-type: none;
-    transition: all .5s ease-in;
 
 }
 .grid-container {
@@ -211,7 +210,7 @@
     line-height: .7rem;
     display: flex;
     flex-wrap: wrap;
-    
+    transition: all .5s ease-in;
 }
 .bigger {
     font-size: 1.2rem;
